@@ -42,10 +42,10 @@ This paper investigates the replication time challenges in Viewstamped Replicati
 
 **Citation** \
 OPTIMIZING READ PERFORMANCE IN DISTRIBUTED systems USING Chrony Sync process. \
-Kanagalakshmi Murugan \
-International Journal on Science and Technology \
-E-ISSN-2229-7677 \
-License \
+* Kanagalakshmi Murugan \
+* International Journal on Science and Technology \
+* E-ISSN-2229-7677 \
+* License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
 https://www.ijsat.org/ \
