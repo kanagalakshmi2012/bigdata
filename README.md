@@ -9,7 +9,7 @@
 * Link:
 
 **Abstract:**
-This paper investigates the replication time challenges in Viewstamped Replication (VR), a consensus protocol widely used in distributed systems for ensuring consistency and fault tolerance. As the number of nodes increases, VR suffers from high replication delays due to its quorum-based communication model. These delays negatively impact system throughput and responsiveness, especially in performance-critical or real-time environments. To address this, the paper proposes an alternative approach using the ZAB (ZooKeeper Atomic Broadcast) protocol to reduce replication time. The solution aims to maintain VR’s reliability while improving scalability and operational efficiency in large distributed systems.
+This paper addresses performance limitations in big data systems caused by inefficient CPU utilization. It explores how poor CPU distribution leads to resource underuse or overload, affecting throughput and latency. The study emphasizes the role of containerization, control groups, and intelligent scheduling—including machine learning and reinforcement learning—in optimizing CPU allocation. By adapting to workload patterns, these methods improve processing efficiency and system reliability. The paper highlights the need for dynamic, data-driven CPU management in large-scale, distributed computing environments.
 
 **Key Contributions:**
 * Algorithm Development
@@ -41,7 +41,7 @@ This paper investigates the replication time challenges in Viewstamped Replicati
   | 11    | 15.6                     | 12.2                      | 21.8            |
 
 **Citation** \
-OPTIMIZING READ PERFORMANCE IN DISTRIBUTED systems USING Chrony Sync process. \
+DYNAMIC MULTI-OBJECTIVE RESOURCE OPTIMIZATION IN BIG DATA CLUSTERS \
 * Kanagalakshmi Murugan \
 * International Journal on Science and Technology \
 * E-ISSN-2229-7677 \
