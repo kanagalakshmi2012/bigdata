@@ -37,13 +37,13 @@ Applied machine learning and reinforcement learning techniques to dynamically al
 
 **Experimental Results (Summary)**:
 
-  | Nodes | VR Replication Time (ms) | ZAB Replication Time (ms) | Reduction (%) |
-  |-------|--------------------------| --------------------------| ----------------|
-  | 3     | 76                      | 61                         | 19.74            |
-  | 5     | 81                      | 64                         | 20.99            |
-  | 7     | 84                      | 68                         | 19.05            |
-  | 9     | 87                      | 69                         | 20.69            |
-  | 11    | 89                      | 70                         | 21.35            |
+  | Nodes | Baseline CPU Util (%)   | Optimized CPU Util (%)     | Reduction (%)   |
+  |-------|-------------------------| ---------------------------| ----------------|
+  | 3     | 76                      | 61                         | 19.74           |
+  | 5     | 81                      | 64                         | 20.99           |
+  | 7     | 84                      | 68                         | 19.05           |
+  | 9     | 87                      | 69                         | 20.69           |
+  | 11    | 89                      | 70                         | 21.35           |
 
 **Citation** \
 DYNAMIC MULTI-OBJECTIVE RESOURCE OPTIMIZATION IN BIG DATA CLUSTERS
