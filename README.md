@@ -41,7 +41,7 @@ This paper addresses performance limitations in big data systems caused by ineff
   | 11    | 15.6                     | 12.2                      | 21.8            |
 
 **Citation** \
-DYNAMIC MULTI-OBJECTIVE RESOURCE OPTIMIZATION IN BIG DATA CLUSTERS \
+DYNAMIC MULTI-OBJECTIVE RESOURCE OPTIMIZATION IN BIG DATA CLUSTERS
 * Kanagalakshmi Murugan \
 * International Journal on Science and Technology \
 * E-ISSN-2229-7677 \
