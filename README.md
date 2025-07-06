@@ -8,7 +8,7 @@
 * Impact Factor: 9.88
 * Link:
 
-**Abstract:**
+**Abstract:**\
 This paper addresses performance limitations in big data systems caused by inefficient CPU utilization. It explores how poor CPU distribution leads to resource underuse or overload, affecting throughput and latency. The study emphasizes the role of containerization, control groups, and intelligent scheduling—including machine learning and reinforcement learning—in optimizing CPU allocation. By adapting to workload patterns, these methods improve processing efficiency and system reliability. The paper highlights the need for dynamic, data-driven CPU management in large-scale, distributed computing environments.
 
 **Key Contributions:**
