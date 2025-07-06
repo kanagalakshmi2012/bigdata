@@ -20,7 +20,7 @@ Applied machine learning and reinforcement learning methods to dynamically adapt
   
 * **Performance Comparison:** \
   Conducted bench marking between baseline CPU utilization and Optimization CPU utilization.
-* Reserach Leadership
+* **Reserach Leadership:**\
   Directed the study and hands-on development, concentrating on improving distributed databases through innovative algorithmic solutions.
 
 **Relevance & Real-World Impact**
