@@ -47,9 +47,9 @@ Applied machine learning and reinforcement learning techniques to dynamically al
 
 **Citation** \
 DYNAMIC MULTI-OBJECTIVE RESOURCE OPTIMIZATION IN BIG DATA CLUSTERS
-* Kanagalakshmi Murugan \
-* International Journal on Science and Technology \
-* E-ISSN-2229-7677 \
+* Kanagalakshmi Murugan 
+* International Journal on Science and Technology 
+* E-ISSN-2229-7677 
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
