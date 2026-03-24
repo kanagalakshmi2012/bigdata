@@ -7,6 +7,7 @@ import (
 type Node struct {
 	Name     string
 	CPUUsage float64
+
 }
 func generateNodes(n int) []Node {
 	nodes := make([]Node, n)
