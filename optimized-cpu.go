@@ -5,6 +5,7 @@ import (
 	"math"
 	"math/rand"
 	"time"
+
 )
 
 type Solution struct {
